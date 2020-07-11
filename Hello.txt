@@ -1,0 +1,18 @@
+git Steps
+Hello World
+1 git init
+
+2 git config --global user.name 'Sinch'
+
+3 git config --global user.email 'Sinch@gmail.com'
+
+4 git status
+
+//Here m refers to message
+5 git commit -m 'modifeied hello.txt'
+
+//To add multile file at a time
+6 git add .
+
+
+
